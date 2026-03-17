@@ -5,8 +5,8 @@ An interactive Machine Learning application that predicts flood risk levels in B
 ---
 
 ## 🚀 Live App
-
-(Add your Streamlit link here after deployment)
+[
+(Add your Streamlit link here after deployment)](https://bangladesh-climate-risk-prediction-biykw56xkw42a8457fxy4a.streamlit.app/)
 
 ---
 
